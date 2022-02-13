@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestWorldMap(t *testing.T) {
+func TestHello(t *testing.T) {
 	result := hello()
 	expected := "Hello \U0001f5fa\ufe0f !"
 	if result != expected {
